@@ -18,7 +18,7 @@ public getPlan(){
 }
 ```
 
-Inject the activities service into the view-plan.component.ts by adding it to the constructor
+Inject the activities service into view-plan.component.ts by adding it to the constructor
 
 **...\daily-planner\src\app\activities\view-plan\view-plan.component.ts**
 
@@ -71,7 +71,7 @@ In the view-plan.component.html file add
 </div>
 ```
 
-Add the app-view-plan selector to the activities.component.html above the existing code
+Add the app-view-plan selector to activities.component.html above the existing code
 
 **...\daily-planner\src\app\activities\activities.component.html**
 
